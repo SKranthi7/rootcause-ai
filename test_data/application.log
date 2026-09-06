@@ -1,0 +1,7 @@
+2026-09-04 13:52:00 INFO Payment response validation changed
+2026-09-04 13:57:00 INFO Deployment v1.8.1 completed
+2026-09-04 14:01:20 INFO Payment request received
+2026-09-04 14:01:21 INFO Calling payment gateway
+2026-09-04 14:03:02 ERROR Payment failed
+2026-09-04 14:03:02 ERROR NullPointerException at PaymentService.java:84
+2026-09-04 14:03:04 ERROR Payment failed

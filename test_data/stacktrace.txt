@@ -1,0 +1,4 @@
+java.lang.NullPointerException: Cannot invoke getStatus because response is null
+    at PaymentService.processPayment(PaymentService.java:84)
+    at OrderService.createOrder(OrderService.java:52)
+    at OrderController.create(OrderController.java:31)
